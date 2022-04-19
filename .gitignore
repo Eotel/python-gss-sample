@@ -190,10 +190,13 @@ cython_debug/
 settings.json
 
 # service account key
-home-living-1-8dfdc80282ad.json
+service_account.json
 
 # poetry
 poetry.lock
 
 # asdf
 .tool-versions
+
+# MonkeyType
+monkeytype.sqlite3
