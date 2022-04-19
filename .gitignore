@@ -192,4 +192,8 @@ settings.json
 # service account key
 home-living-1-8dfdc80282ad.json
 
+# poetry
+poetry.lock
 
+# asdf
+.tool-versions
